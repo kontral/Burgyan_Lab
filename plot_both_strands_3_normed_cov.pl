@@ -9,7 +9,7 @@ my $input3 = shift;
 my $fasta = shift;
 my $scale = shift;
 if ((!$input1)||(!$input2)|| (!$input3)||(!$fasta)){
-	print STDERR "$0: a script to plot sRNA reads"
+	print STDERR "$0: a script to plot sRNA reads";
 	print STDERR "$0 please enter <patman input file 1> <patman input file 2> <patman input file 3> and a stacked <fasta file> that was added into PatMaN as database. Costum scalebar langth can be specified, but it is optional <scale>\n";
 	exit();
 	}
