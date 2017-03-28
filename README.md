@@ -1,6 +1,6 @@
 # Burgyan_Lab
-Bioinformatic scripts used by the Burgyan J. Lab
+Bioinformatic scripts used by the Burgyan J. Lab. Mostly simple scripts for small RNA sequencing data manipulation.
 
-We have decided to upload scripts that we use in our research for better reproducibility and transparency.
+We have decided to upload scripts that we use in our research for better reproducibility and transparency. 
 
 If you have a question or a bug to report please do send it to kontra.levente@abc.naik.hu!
